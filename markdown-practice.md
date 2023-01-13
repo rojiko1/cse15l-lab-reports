@@ -18,10 +18,10 @@ Top 3 Avengers Movies:
 2) Black Panther
 3) Doctor Strange
 
-The most overrated piece of code: 'print("Hello World")' or any variation of that in any language
+The most overrated piece of code: `print("Hello World")` or any variation of that in any language
 
 Code that I like:
-'''
+```
 binarySearch(array, target, start, end) {
   if (start > end) {
     return -1;
@@ -37,5 +37,6 @@ binarySearch(array, target, start, end) {
     return binarySearch(array, target, start, mid - 1)
   }
 }
-'''
+```
 
+![Image](https://rojiko1.github.io/cse15l-lab-reports/ucsd%20background.jpg)
