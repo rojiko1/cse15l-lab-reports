@@ -38,11 +38,11 @@ Now that you're set up, it is time to use some commands to play around with the 
 
 Here are some commands you can try:
 
-```cd``` - change your working directory
-```ls``` - list your current directory. Some options to use with ```ls``` include ```-l```, ```-a```, and ```-t```.
-```pwd``` - print your working directory
-```mkdir``` - make a new directory
-```cp``` - copy a file or directory or create a new file or directory
+* ```cd``` - change your working directory
+* ```ls``` - list your current directory. Some options to use with ```ls``` include ```-l```, ```-a```, and ```-t```.
+* ```pwd``` - print your working directory
+* ```mkdir``` - make a new directory
+* ```cp``` - copy a file or directory or create a new file or directory
 
 For some inspiration, here are some things that I tried:
 
