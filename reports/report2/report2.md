@@ -118,13 +118,13 @@ class StringServer {
 
 Here are some example outputs:
 
-![Image](https://rojiko1.github.io/cse15l-lab-reports/string-server-result-1.png)
+![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/string-server-result-1.png)
 
 In this example, the entire path is `/add-message?s=Hello World`. When handling the request, the path is checked first. Since the path given matches the path expected, we move onto the next test: the query. Since the first parameter of the query is what we expect, we add the second parameter, which in this case is `Hello World`, to the end of our currently empty String message along with a `\n` newline character. The last step is simply to return the String to be printed to the page.
 
 Here's another example:
 
-![Image](https://rojiko1.github.io/cse15l-lab-reports/string-server-result-2.png)
+![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/string-server-result-2.png)
 
 In this example, the entire path is `/add-message?s=My name is Rohil!`. Once again, the path is checked first, then the query if the path matches. Since the path given matches the path expected and the first parameter of the query is what we expect, we add the second parameter, which in this case is `My name is Rohil!`, to the end of `message` along with a `\n` newline character. At this point, `message` should have the value: `Hello World\nMy name is Rohil!\n`.
 
@@ -177,7 +177,7 @@ Let's look at an example of buggy code to explore how one may go about fixing th
 
   After writing tests that cover different cases, you should run the tests with JUnit and identify if any tests fail. If a test fails, identify why the failure-inducing output resulted in the symptom demonstrated by that test. Let's use this process with my tests.
 
-  ![Image](https://rojiko1.github.io/cse15l-lab-reports/array-tests-result.png)
+  ![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/array-tests-result.png)
 
   As you can see, my first test passed but my second test failed. Let's investigate why the test failed and where the bug may be by tracing through the code with our failure-inducing output.
 

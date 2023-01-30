@@ -6,7 +6,7 @@ Before logging into your course-specific account, it is important that you first
 
 Once you have VSCode installed and open, click on ```Terminal -> New Terminal``` in the menu.
 
-![Image](https://rojiko1.github.io/cse15l-lab-reports/vscode-terminal-newterminal.png)
+![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/vscode-terminal-newterminal.png)
 
 ## Access Your ```ieng6``` Account
 
@@ -30,7 +30,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
 You will now be prompted to enter your password. Note that as you are entering your account password, it may appear as though the terminal is not recording what you are typing even though it actually is. When you complete this step, your terminal should look something like this:
 
-![Image](https://rojiko1.github.io/cse15l-lab-reports/remote-connection-terminal.png)
+![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/remote-connection-terminal.png)
 
 ## Play Around With Some Commands
 
@@ -46,8 +46,8 @@ Here are some commands you can try:
 
 For some inspiration, here are some things that I tried:
 
-![Image](https://rojiko1.github.io/cse15l-lab-reports/terminal-commands-1.png)
+![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/terminal-commands-1.png)
 
-![Image](https://rojiko1.github.io/cse15l-lab-reports/terminal-commands-2.png)
+![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/terminal-commands-2.png)
 
 When you are down trying out different commands, run the ```exit``` command to disconnect from the remote server.
