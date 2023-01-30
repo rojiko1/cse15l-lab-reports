@@ -206,6 +206,6 @@ static double averageWithoutLowest(double[] arr) {
   }
   ```
 
-  ## Something I Learned
+## Something I Learned
 
   The biggest thing I learned from lab in the past two weeks was how to create a simple Java web server that can handle requests and return some output based on the path and query. I did not know about the query part of a url beforehand despite seeing it countless times when searching on Google and I learned how one could use the query to get an input from a user, which a path, which are limited by what the developer has designed, cannot do.
