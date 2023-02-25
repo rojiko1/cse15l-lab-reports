@@ -8,7 +8,7 @@ In this report, we have a challenge that is all about speed. Follow the instruct
 
 The first step is to delete any forks of the repository that you may have in your GitHub account. 
 
-![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/delete-fork-1)
+![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/delete-fork-1.png)
 
 While you are at it, delete the ```lab7``` directory from your ```ieng6``` account using the ```rm -rf lab7``` command.
 
@@ -40,7 +40,7 @@ If this is your first time trying the challenge, find the link to your repositor
 
 This is what your git clone should look like:
 
-![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/klab7-git-clone-2.png)
+![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/lab7-git-clone-2.png)
 
 ## Step 6
 
@@ -66,4 +66,4 @@ To commit and push the changes, I typed ```git add ListExamples.``` then ```<Tab
 
 ![Image](https://rojiko1.github.io/cse15l-lab-reports/assets/lab7-git-add-commit-push.png)
 
-And we're done. That took me a little over a minute. Try to beat my time. It is possible to do the task in less than a minute if you use more shortcuts or type faster than me. Good luck!
+> And we're done. That took me a little over a minute. Try to beat my time. It is possible to do the task in less than a minute if you use more shortcuts or type faster than me. Good luck!
