@@ -1,8 +1,10 @@
-# Lab 4: Terminal Efficiency
+# Lab Report 4: Terminal Efficiency
+
+In this report, we have a challenge that is all about speed. Follow the instructions below and do the challenge as fast as you can. 
 
 ## Step 1
 
->> If this is your first time trying the challenge, you can skip this step.
+> If this is your first time trying the challenge, you can skip this step.
 
 The first step is to delete any forks of the repository that you may have in your GitHub account. 
 
