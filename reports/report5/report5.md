@@ -3,13 +3,21 @@
 In this lab report, we will revisit the task we introduced in lab report 4. To refresh your memory, here are the set of tasks we attempted to do as fast as possible.
 
 1) SETUP - Delete any existing forks of the repository you have on your account (if applicable)
+
 2) SETUP - Fork the repository
+
 3) Start the timer!
+
 4) Log into ieng6
+
 5) Clone your fork of the repository from your Github account
+
 6) Run the tests, demonstrating that they fail
+
 7) Edit the code file to fix the failing test
+
 8) Run the tests, demonstrating that they now succeed
+
 9) Commit and push the resulting change to your Github account
 
 One of the rules of this challenge is that we could not use ```bash``` script so that we could practice working with command line shortcuts. But what if we removed this rule so that we could achieve the fastest possible speed? In this lab, we will remove all time from a human entering commands using a bash script.
